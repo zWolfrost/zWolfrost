@@ -3,3 +3,6 @@
 
 [librisfogliati.com](https://librisfogliati.com/)
 
+[PaintRoom](zwolfrost.github.io/Paint-Room/)
+
+[JSMinesweeper](https://zwolfrost.github.io/JSMinesweeper/)
