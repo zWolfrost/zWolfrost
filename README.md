@@ -1,5 +1,5 @@
-### Websites i made (Italian language):
-- [lucarusso.work](https://lucarusso.work/)
-- [librisfogliati.com](https://librisfogliati.com/)
+### Websites i made:
+- [lucarusso.work](https://lucarusso.work/) (ITALIAN)
+- [librisfogliati.com](https://librisfogliati.com/) (ITALIAN)
 - [PaintRoom](https://zwolfrost.github.io/Paint-Room/)
 - [JSMinesweeper](https://zwolfrost.github.io/JSMinesweeper/)
