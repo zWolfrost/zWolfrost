@@ -6,4 +6,5 @@
 You can support me there:<br>
 [Paypal](https://paypal.me/zwolfrost)<br>
 [buymeacoffee](https://buymeacoffee.com/zwolfrost)<br>
-BTC address: `bc1q0kuy5ja3us5ucyx4cw3s4m5x7w2hzp0qgln8mz`
+BTC address: `bc1q6xrnr9vt8hesy24c7mrn89z07ccdaldrgn4fu8`<br>
+XMR address: `42uAuo1P1ifdxvevaY5AyJiDfD6A361w5CUgTwNsVQwPenkR6oUNErNLt8cJQiEQDdFQc98oX9ZW4dXfdx3CUH1dCCT2Knr`
